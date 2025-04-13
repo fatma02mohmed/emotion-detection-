@@ -78,5 +78,5 @@ Metrics: Accuracy
 - Easily extendable for real-time webcam detection
 
 ## 👨‍💻 Author
-Made with ❤️ using Python & TensorFlow  
+Made with Fatma mohmmed jamal using Python & TensorFlow  
 Feel free to fork, star ⭐, and contribute!
