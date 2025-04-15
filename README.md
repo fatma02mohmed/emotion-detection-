@@ -78,6 +78,8 @@ Metrics: Accuracy
 - Images must be grayscale and 48x48 size  
 - Modify learning rate, batch size, or layers for better results  
 - Easily extendable for real-time webcam detection
+- ![image](https://github.com/user-attachments/assets/846f5995-6013-4147-ba64-43894539ffcc)
+
 
 ## 👨‍💻 Author
 Made with Fatma mohmmed jamal using Python & TensorFlow  
