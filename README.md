@@ -10,6 +10,7 @@ A deep learning project to classify facial emotions using a Convolutional Neural
 - Sad 😢
 - Surprise 😲
 - Neutral 😐
+![imge of photo of train](https://github.com/user-attachments/assets/285a7164-1093-49bc-8c00-b6d6392e8224)
 
 ## 🧾 Dataset Structure
 Organize your dataset like this:
