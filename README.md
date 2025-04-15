@@ -32,6 +32,7 @@ project/
 │   ├── sad/  
 │   ├── surprise/  
 │   └── neutral/
+![train set image counts](https://github.com/user-attachments/assets/c28fdca2-844f-4c24-a307-adf93d1aab29)
 
 ## 🛠️ Requirements
 - Python 3.x  
