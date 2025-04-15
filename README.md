@@ -76,6 +76,7 @@ Metrics: Accuracy
 - Images must be grayscale and 48x48 size  
 - Modify learning rate, batch size, or layers for better results  
 - Easily extendable for real-time webcam detection
+![imge of photo of train](https://github.com/user-attachments/assets/18fe6262-3b69-45ac-a7b3-76499f03fdb7)
 
 ## 👨‍💻 Author
 Made with Fatma mohmmed jamal using Python & TensorFlow  
